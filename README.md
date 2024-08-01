@@ -19,24 +19,6 @@ This is a React application showcasing a web developer's portfolio. The app incl
 - **Tailwind CSS**: For styling the application.
 
 
-## Folder Structure
-
-
-portfolio-app/
-  ├── public/
-  │   ├── index.html
-  │   └── Images/
-  │       ├── Profile_img.jpg
-  │       ├── Screenshot.png
-  │       ├── Screenshot2.png
-  │       └── Screenshot5.png
-  ├── src/
-  │   ├── App.js
-  │   ├── index.js
-  │   └── styles.css
-  ├── package.json
-  └── README.md
-
 ## Screenshot
 
 ![Project Screenshot](./public/Images/Portfolio.png)
